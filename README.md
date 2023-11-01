@@ -8,8 +8,8 @@
 
 <h1 align="center">CalculadoraJavascript</h1>
 
-<p align="center">
-  <img alt="Github top language" src="[https://img.shields.io/github/languages/top/{{loresgarcia}}/calculadorajavascript?](https://github.com/loresgarcia/CalculadoraJavascript)color=56BEB8">
+<!-- <p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{loresgarcia}}/calculadorajavascript?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{loresgarcia}}/calculadorajavascript?color=56BEB8">
 
@@ -17,7 +17,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/{{loresgarcia}}/calculadorajavascript?color=56BEB8">
 
-</p>
+</p> -->
 
 <!-- Status -->
 
